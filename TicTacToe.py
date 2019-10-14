@@ -37,15 +37,7 @@ player2=2
 # 2 value indicates that the tile is ticked by player-2
 
 #GLOBAL VARIABLES
-tile1= 0
-tile2= 0
-tile3= 0
-tile4= 0
-tile5= 0
-tile6= 0
-tile7= 0
-tile8= 0
-tile9= 0
+tile1= tile2= tile3= tile4= tile5= tile6= tile7= tile8= tile9= 0
 
 tiley1 = tile1
 tiley2 = tile2
